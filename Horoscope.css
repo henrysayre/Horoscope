@@ -1,0 +1,19 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    vertical-align: top;
+    background-image: url(https://www.fashionphile.com/includes/images/large/BW90160/goyard-st-louis-gm-light-blue-00016.jpg);
+    background-size: cover;
+    color: white;
+    font-size: x-large;
+}
+
+button {
+    width: 55px;
+    color: crimson;
+}
+
+#image{
+    margin: 200px;
+    display: block;
+    margin-top: 50px;
+}
